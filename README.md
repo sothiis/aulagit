@@ -1,5 +1,3 @@
 # aulagit
 
-## descrição
-
-depositório de teste para a aula de poo
+learning how to use git
